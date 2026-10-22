@@ -87,4 +87,4 @@ Prices were read from each provider's official page on 20 October 2026 and will 
 
 ## Author
 
-[Your name] · [LinkedIn link] · [Memo link]
+TH 
