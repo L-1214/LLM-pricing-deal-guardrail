@@ -19,7 +19,7 @@ Buyers and sellers of AI model APIs face two linked questions:
 4. **Cheapest is not best value (illustrative).** With placeholder success rates and rework costs, the cheapest model on API cost misses the required success rate on all three tasks. The best-value model is a higher tier. This follows from the assumptions: rework cost is far larger than API cost, so quality dominates.
 5. **Break-even rework cost shows when a premium tier pays off.** It equals the extra API cost divided by the success-rate gain. If real rework cost is above that figure, the higher tier is cheaper overall.
 6. **The maximum safe discount depends on margin.** With a 25% margin floor, the maximum discount is 1 - (1 - margin) / (1 - floor). That is about 47% at 60% gross margin and 20% at 40%.
-7. **A margin-aware guardrail concentrates review where the money is.** On 12 simulated deals ($17.8M total contract value), five breach the margin floor under the 40% scenario. They are 42% of deals but about 91% of contract value.
+7. **A margin-aware guardrail concentrates review where the money is.** In the simulated deal set, where larger deals request deeper discounts, the five deals breaching the floor under the 40% scenario are 42% of deals but about 91% of contract value.
 
 ## Recommendation (seller side)
 
