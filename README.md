@@ -30,7 +30,7 @@ Buyers and sellers of AI model APIs face two linked questions:
 | Finance | 45% |
 | Above 45% | Executive exception |
 
-Add one control: any discount above 20% needs Finance to verify the deal's actual margin. Full reasoning, trade-offs and monitoring metrics are in the memo: `memo/deal_approval_guardrail_memo.pdf`.
+Add one control: any discount above 20% needs Finance to verify the deal's actual margin. Full reasoning, trade-offs and monitoring metrics are in the memo: `deal_approval_guardrail_memo.pdf`.
 
 ## Models and data
 
