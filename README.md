@@ -70,6 +70,7 @@ Prices were read from each provider's official page on 20 October 2026 and will 
 - The guardrail is a deal-level gross margin control. It says nothing about any company's overall profit, which also depends on training and infrastructure costs.
 - The model tests discount depth only, not term length, prepayment or commit structure.
 - Results are directional and depend on the rework cost assumption, which is the most influential input.
+- Unit cost is assumed fixed regardless of deal size, so margin percentage does not change with volume. In practice, volume can change cost per token and real guardrails often tie limits to deal size.
 
 ## How to reproduce
 
